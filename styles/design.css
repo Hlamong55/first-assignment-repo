@@ -237,3 +237,31 @@ img{
     border: none;
     font-weight: 600;
 }
+
+
+/* footer-section */
+.foot{
+    background-color: white;
+    text-align: center;
+    margin-top: 80px;
+    padding: 80px;
+
+  
+}
+#last{
+    font-weight: bolder;
+    font-size: 80px;
+}
+.last-line{
+    color: #8987A1;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.last-btn{
+    color: #8987A1;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 30px;
+   text-decoration: none;
+}
